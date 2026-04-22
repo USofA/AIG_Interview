@@ -1,0 +1,16 @@
+Variable,Observation_ID,Ground_Truth,Extracted_Value,Match
+Total Revenue (in millions),1,46802,46802,True
+Total Revenue (in millions),2,46802,46802,True
+Total Revenue (in millions),3,46802,46802,True
+Total Revenue (in millions),4,46802,46802,True
+Total Revenue (in millions),5,46802,46802,True
+Total Assets (in millions),1,539306,539306,True
+Total Assets (in millions),2,539306,539306,True
+Total Assets (in millions),3,539306,539306,True
+Total Assets (in millions),4,539306,539306,True
+Total Assets (in millions),5,539306,539306,True
+CEO,1,Peter Zaffino,Peter Zaffino,True
+CEO,2,Peter Zaffino,Peter Zaffino,True
+CEO,3,Peter Zaffino,Peter Zaffino,True
+CEO,4,Peter Zaffino,Peter Zaffino,True
+CEO,5,Peter Zaffino,Peter Zaffino,True
